@@ -1,31 +1,111 @@
-[![MasterHead](https://res.cloudinary.com/drq90wt7m/image/upload/v1707017142/I%20care/kqldxhxjoicvqpvaixsd.jpg)](https://www.linkedin.com/in/uday-kumar-6a692a253/)
+![MasterHead](https://res.cloudinary.com/drq90wt7m/image/upload/v1707017142/I%20care/kqldxhxjoicvqpvaixsd.jpg)
+
 <h1 align="center">Hi 👋, I'm Uday Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding gif" width="300" src="https://res.cloudinary.com/drq90wt7m/image/upload/v1707018001/I%20care/jeo2hqobuehxcwij0lau.gif">
 
-- 🌱 I’m currently learning **react js,typescript,basic DevOps**
-
-- 💬 Ask me about **Frontend,Backend,MERN**
-
-- 📫 How to reach me **uday33379@gmail.com**
+## About me :mortar_board:
+I am a student, currently studying at Sri Vyshnavi Degree College. From very early on in my life, I fell in love with technology 😍. This love has helped me develop an excellent technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## What I know :computer:
+- **Programming Languages (Data Structures & Algorithms)**
+	<div align="left">
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+					</td>
+          <td width="25%" align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+- **Frontend Development**
+<div align="left">
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+          <td align="center">
+						<span><strong>Tailwind</strong></span><br/>
+						<img height="64px" width="64px" src="https://tse1.mm.bing.net/th?id=OIP.GdUWbrVtbNezIRl6jg_ymAHaEh&pid=Api&P=0&h=180">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+					<td align="center">
+						<span><strong>Typescript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+					</td>
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td  align="center">
+						<span><strong>Redux</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+- **Backend Development**
+	<div align="left">
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Node JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Express</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MongoDB</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Mongoose</strong></span><br/>
+						<img height="64px" width="64px" src="https://tse3.mm.bing.net/th?id=OIP.eAsvrVxjjd2WbCSj4rVbyQHaEv&pid=Api&P=0&h=180">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/udaykumar7771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udaykumar7771" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uday-kumar-6a692a253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-kumar-6a692a253" height="30" width="40" /></a>
-<a href="https://medium.com/@uday778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@uday778" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/uday778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uday778" height="30" width="40" /></a>
-</p>
-<hr width="100%" size="2">
+## What I want to do next :thinking:
+- Python 
+- DevOps
+- Qualify for GSOC 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<hr width="100%" size="2">
+## Reach me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-kumar-6a692a253/) 
+[![Mail](https://img.shields.io/badge/-uday3379@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/https://www.linkedin.com/in/soma-uday-kiran-43247a220/)](mailto:uday33379@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/udaykumar7771)
+[![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=black)](https://github.com/uday778)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uday778&show_icons=true&locale=en&layout=compact" alt="uday778" /></p>
+
+### Interesting stats
+
+<!-- ![Uday kumar's stats](https://github-readme-stats.vercel.app/api?username=uday778&show_icons=true&count_private=true&hide=stars) -->
+
+
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=uday778&show_icons=true&locale=en&layout=compact" alt="uday778" /></p>
+
+Thanks for stopping by! 😁
 
