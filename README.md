@@ -108,4 +108,6 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=uday778&show_icons=true&locale=en&layout=compact" alt="uday778" /></p>
 
 Thanks for stopping by! 😁
+### ✍🏻Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
