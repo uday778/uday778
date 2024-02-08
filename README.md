@@ -103,11 +103,13 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 ### Interesting stats
 
 <!-- ![Uday kumar's stats](https://github-readme-stats.vercel.app/api?username=uday778&show_icons=true&count_private=true&hide=stars) -->
-
-
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=uday778&show_icons=true&locale=en&layout=compact" alt="uday778" /></p>
 
 Thanks for stopping by! 😁
+<p><br/>
+<img src="https://visitcount.itsvg.in/api?id=uday778&label=Profile%20Views&pretty=false"/>
+  </p>
+  
 ### ✍🏻Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
