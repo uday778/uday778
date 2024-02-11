@@ -89,7 +89,9 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 	</div>
 
 ## What I want to do next :thinking:
-- Python 
+- serverless backends
+- Prisma(ORM)
+- Postgres
 - DevOps
 - Qualify for GSOC 
 
