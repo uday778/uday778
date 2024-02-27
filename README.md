@@ -97,7 +97,7 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 
 ## Reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday778/) 
-[![Mail](https://img.shields.io/badge/-uday3379@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/https://www.linkedin.com/in/uday778/)](mailto:uday33379@gmail.com)
+[![Mail](https://img.shields.io/badge/-uday33379@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/https://www.linkedin.com/in/uday778/)](mailto:uday33379@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/udaykumar7771)
 [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=black)](https://github.com/uday778)
 
