@@ -45,10 +45,10 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
-					[comment]: <td align="center">
+<!-- 					 <td align="center">
 						<span><strong>Typescript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-					</td>
+					</td> -->
 					<td align="center">
 						<span><strong>React</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
