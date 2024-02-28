@@ -45,7 +45,7 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
-					<td align="center">
+					[comment]:<> <td align="center">
 						<span><strong>Typescript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
 					</td>
