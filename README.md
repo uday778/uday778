@@ -1,4 +1,4 @@
-![MasterHead](https://asset.cloudinary.com/drq90wt7m/1e7c0853d03f4521ecee2b85e20b2d5f)
+![MasterHead](https://res.cloudinary.com/drq90wt7m/image/upload/v1715488149/banner_po3zi4.jpg)
 
 <h1 align="center">Hi 👋, I'm Uday Kumar</h1>
 
