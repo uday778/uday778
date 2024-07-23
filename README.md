@@ -20,6 +20,10 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
+          <td width="25%" align="center">
+						<span><strong>Golang</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/drq90wt7m/image/upload/fzx3oxtrjdiuhjh7qgv4.jpg">
+					</td>
 				</tr>
 			</tbody>
 		</table>
@@ -83,6 +87,10 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<span><strong>Mongoose</strong></span><br/>
 						<img height="64px" width="64px" src="https://tse3.mm.bing.net/th?id=OIP.eAsvrVxjjd2WbCSj4rVbyQHaEv&pid=Api&P=0&h=180">
 					</td>
+					<td width="25%" align="center">
+						<span><strong>Golang</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/drq90wt7m/image/upload/fzx3oxtrjdiuhjh7qgv4.jpg">
+					</td>
 				</tr>
 			</tbody>
 		</table>
@@ -93,7 +101,7 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 - Prisma(ORM)
 - Postgres
 - DevOps
-- Qualify for GSOC 
+- Gin
 
 ## Reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday778/) 
