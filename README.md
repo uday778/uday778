@@ -8,7 +8,7 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)**
-	<div align="left">
+	<div align="center">
 		<table>
 			<tbody>
 				<tr>
@@ -29,7 +29,7 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 		</table>
 	</div>
 - **Frontend Development**
-<div align="left">
+<div align="center">
 		<table>
 			<tbody>
 				<tr>
@@ -67,7 +67,7 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 	</div>
 	
 - **Backend Development**
-	<div align="left">
+	<div align="center">
 		<table>
 			<tbody>
 				<tr>
@@ -97,11 +97,11 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 	</div>
 
 ## What I want to do next :thinking:
-- serverless backends
-- Prisma(ORM)
-- Postgres
-- DevOps
-- Gin
+- MERN Stack Projects
+- Golang
+- Next Js
+- Shadcn/ui
+- Typescript
 
 ## Reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday778/) 
@@ -110,16 +110,29 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=black)](https://github.com/uday778)
 
 
-### Interesting stats
+## GitHub stats
 
-<!-- ![Uday kumar's stats](https://github-readme-stats.vercel.app/api?username=uday778&show_icons=true&count_private=true&hide=stars) -->
-<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=uday778&show_icons=true&locale=en&layout=compact" alt="uday778" /></p>
+<p align="center">
+  <a href="https://github.com/uday778">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uday778&theme=transparent" />
+  </a>
+  <a href="https://github.com/uday778">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday778&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/uday778">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uday778&theme=transparent" />
+  </a>
+  <a href="https://github.com/uday778">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday778&langs_count=10&exclude_repo=&hide=c,makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+  <br/>
+  <a href="https://github.com/uday778">
+    <img src="https://komarev.com/ghpvc/?username=uday778&color=blue&style=flat" />
+  </a>
+</p>
 
-Thanks for stopping by! 😁
-<p><br/>
-<img src="https://visitcount.itsvg.in/api?id=uday778&label=Profile%20Views&pretty=false"/>
-  </p>
-  
-### ✍🏻Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Thank you!  
+
+If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful**! 🥰
+
 
