@@ -16,14 +16,10 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<span><strong>C++</strong></span><br/>
 						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 					</td>
-          <td width="25%" align="center">
+                                      <td width="25%" align="center">
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-          <td width="25%" align="center">
-						<span><strong>Golang</strong></span><br/>
-						<img height="64px" width="64px" src="https://res.cloudinary.com/drq90wt7m/image/upload/fzx3oxtrjdiuhjh7qgv4.jpg">
-					</td>
+				      </td>
 				</tr>
 			</tbody>
 		</table>
@@ -61,6 +57,10 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<span><strong>Redux</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 					</td>
+					<td  align="center">
+						<span><strong>Typescript</strong></span><br/>
+						<img height="64px" width="64px" src="https://s.yimg.com/zb/imgv1/b0edf97d-a712-3c6c-bd1e-3a59ca4b72a0/t_500x300">
+					</td>
 				</tr>
 			</tbody>
 		</table>
@@ -88,8 +88,8 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<img height="64px" width="64px" src="https://tse3.mm.bing.net/th?id=OIP.eAsvrVxjjd2WbCSj4rVbyQHaEv&pid=Api&P=0&h=180">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Golang</strong></span><br/>
-						<img height="64px" width="64px" src="https://res.cloudinary.com/drq90wt7m/image/upload/fzx3oxtrjdiuhjh7qgv4.jpg">
+						<span><strong>Postgresql</strong></span><br/>
+						<img height="64px" width="64px" src="https://s.yimg.com/fz/api/res/1.2/v0sSH6ErjWAyj74.BhcFrA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MjUw/https://s.yimg.com/zb/imgv1/eb3812d6-407b-37a6-ab36-9d0ffd3a69df/t_500x300">
 					</td>
 				</tr>
 			</tbody>
@@ -97,17 +97,17 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 	</div>
 
 ## What I want to do next :thinking:
-- MERN Stack Projects
-- Golang
+- Prisma ORM
+- Docker
 - Next Js
-- Shadcn/ui
-- Typescript
+- Redis
 
 ## Reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday778/) 
 [![Mail](https://img.shields.io/badge/-uday33379@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:uday33379@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/udaykumar7771)
 [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=black)](https://github.com/uday778)
+
 
 
 ## GitHub stats
