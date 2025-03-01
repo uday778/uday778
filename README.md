@@ -83,24 +83,16 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<span><strong>MongoDB</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 					</td>
-					<td width="25%" align="center">
-						<span><strong>Mongoose</strong></span><br/>
-						<img height="64px" width="64px" src="https://tse3.mm.bing.net/th?id=OIP.eAsvrVxjjd2WbCSj4rVbyQHaEv&pid=Api&P=0&h=180">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Postgresql</strong></span><br/>
-						<img height="64px" width="64px" src="https://s.yimg.com/fz/api/res/1.2/v0sSH6ErjWAyj74.BhcFrA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MjUw/https://s.yimg.com/zb/imgv1/eb3812d6-407b-37a6-ab36-9d0ffd3a69df/t_500x300">
-					</td>
 				</tr>
 			</tbody>
 		</table>
 	</div>
 
 ## What I want to do next :thinking:
-- Prisma ORM
+- Java
 - Docker
-- Next Js
-- Redis
+- Springboot
+- Mysql
 
 ## Reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday778/) 
