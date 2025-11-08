@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Uday Kumar</h1>
 
 ## About me :mortar_board:
-I am a student, currently studying at Sri Vyshnavi Degree College. From very early on in my life, I fell in love with technology 😍. This love has helped me develop an excellent technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+Recent Undergraduate from Sri Vyshnavi  College. From very early on in my life, I fell in love with technology 😍. This love has helped me develop an excellent technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 
 ## What I know :computer:
@@ -13,13 +13,17 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>C++</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png">
 					</td>
-                                      <td width="25%" align="center">
+                      <td width="25%" align="center">
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 				      </td>
+					<td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+					</td>
 				</tr>
 			</tbody>
 		</table>
@@ -57,10 +61,10 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 						<span><strong>Redux</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 					</td>
-					<td  align="center">
+					<!-- <td  align="center">
 						<span><strong>Typescript</strong></span><br/>
 						<img height="64px" width="64px" src="https://s.yimg.com/zb/imgv1/b0edf97d-a712-3c6c-bd1e-3a59ca4b72a0/t_500x300">
-					</td>
+					</td> -->
 				</tr>
 			</tbody>
 		</table>
@@ -71,28 +75,70 @@ I am a student, currently studying at Sri Vyshnavi Degree College. From very ear
 		<table>
 			<tbody>
 				<tr>
-					<td width="25%" align="center">
+					<!-- <td width="25%" align="center">
 						<span><strong>Node JS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+					</td> -->
+					<td width="25%" align="center">
+						<span><strong>SpringBoot</strong></span><br/>
+						<img height="64px" width="64px" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Express</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
+						<span><strong>MySQL</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>MongoDB</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+						<img height="64px" width="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s">
 					</td>
 				</tr>
 			</tbody>
 		</table>
 	</div>
 
+- **Tools**
+	<div align="center">
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Git</strong></span><br/>
+						<img height="64px" width="64px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>GitHub</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>PostMan Api</strong></span><br/>
+						<img height="64px" width="64px" src="https://pipedream.com/s.v0/app_XbPhj6/logo/orig">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Docker</strong></span><br/>
+						<img height="64px" width="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYY7RkWHSpQP6hWGTGbC4WewznuklWsBSH5Q&s">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Maven</strong></span><br/>
+						<img height="64px" width="64px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/998f1aa7-a9ca-4fa9-879f-1ed56fea4ff3.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>NPM</strong></span><br/>
+						<img height="64px" width="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vU3yqr5-5XtaBIZ3pho2YHrqQyY7h-WAag&s">
+					</td>
+					<!-- <td width="25%" align="center">
+						<span><strong>Maven</strong></span><br/>
+						<img height="64px" width="64px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/998f1aa7-a9ca-4fa9-879f-1ed56fea4ff3.png">
+					</td> -->
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
 ## What I want to do next :thinking:
-- Java
+- Microservices
 - Docker
-- Springboot
-- Mysql
+- AWS
+- Jenkins
 
 ## Reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday778/) 
