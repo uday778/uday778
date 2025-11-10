@@ -169,6 +169,14 @@ Recent Undergraduate from Sri Vyshnavi  College. From very early on in my life, 
   </a>
 </p>
 
+
+
+
+## Watch my Contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/uday778/uday778/blob/output/github-contribution-grid-snake.gif)
+
+
+
 ## Thank you!  
 
 If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful**! 🥰
