@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Uday Kumar</h1>
 
 ## About me :mortar_board:
-Recent Undergraduate from Sri Vyshnavi  College. From very early on in my life, I fell in love with technology 😍. This love has helped me develop an excellent technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+Recent Undergraduate from Alagappa University with CSE. From very early on in my life, I fell in love with technology 😍. This love has helped me develop an excellent technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 
 ## What I know :computer:
